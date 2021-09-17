@@ -6,4 +6,4 @@ Cameron Powers
 
 ![img1](https://github.com/Cameron-Powers/seg4105_playground/blob/lab2/img1.png?raw=true)
 
-![img2](https://github.com/[username]/seg4105_playground/blob/lab2/img2.png?raw=true)
+![img2](https://github.com/Cameron-Powers/seg4105_playground/blob/lab2/img2.png?raw=true)
