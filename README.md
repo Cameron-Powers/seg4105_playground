@@ -3,5 +3,7 @@
 
 Cameron Powers
 300063231
-/Users/cameronpowers/Desktop/Screen Shot 2021-09-17 at 5.05.00 PM.png
-/Users/cameronpowers/Desktop/Screen Shot 2021-09-17 at 5.05.08 PM.png
+
+![img1](https://github.com/Cameron-Powers/seg4105_playground/blob/lab2/img1.png?raw=true)
+
+![img2](https://github.com/[username]/seg4105_playground/blob/lab2/img2.png?raw=true)
