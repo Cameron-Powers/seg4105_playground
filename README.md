@@ -4,4 +4,10 @@ SEG4105 Course Repository
 Cameron Powers
 300063231
 
-<img width="561" alt="img1" src="https://user-images.githubusercontent.com/42976698/137794803-58cf6af5-48b6-4154-9173-49e59d9b6a37.png">
+### Lab 7
+##Stand-Up
+
+Designed the domain input constraints for the application. Prevention of invalid inputs or api calls that go outside the domain scope or negative values to be integrated tomorrow.
+
+## Meeting Frequency
+Our team meets twice a week for about 30-45 minutes but continuously message between team members almost daily
