@@ -6,7 +6,7 @@ Cameron Powers
 
 ## Lab 8
 
-A) lab08a.mpp
+A)
 [lab08a.mpp](lab08a.mpp)
 
 
@@ -16,7 +16,7 @@ B) *I believe the critical path wasn't working properly in pics*
 
 C) 6005
 
-D) lab08d.mpp
+D)
 [lab08d.mpp](lab08d.mpp)
 
 
