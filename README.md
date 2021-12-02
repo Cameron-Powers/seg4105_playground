@@ -23,7 +23,7 @@ D)
 E) 
 ![figure_e](https://user-images.githubusercontent.com/42976698/142900694-cc720807-4dd7-463d-94e9-f0298f64fd30.PNG)
 
-F) N/A
+F) With Pierre there was not enough resources for him to both Test the AI and the UI but you can use the level resource function to solve the issue
 
 G) Pretty much everything, the only tasks that is incomplete is task 6, Test AI. The only reason for this not fitting within the 3 week iteration is due to chen's vacation
 
